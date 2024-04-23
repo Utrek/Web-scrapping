@@ -1,0 +1,72 @@
+[
+    {
+        "company_name": "ООО ПУЛЬС АЙТИМ",
+        "city": "Москва, Речной вокзал",
+        "title": "Ведущий разработчик Python / Senior Python Developer (Django+Celery)",
+        "salary": "Вилка зарплат не указана",
+        "link": "https://spb.hh.ru/vacancy/95917860?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "WebGears Services",
+        "city": "Москва",
+        "title": "Senior Python/Django разработчик",
+        "salary": "3 200 – 4 000 $",
+        "link": "https://spb.hh.ru/vacancy/97607613?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "evrone.ru",
+        "city": "Москва",
+        "title": "Backend Python-developer (Django)",
+        "salary": "до 280 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/95778303?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ООО Фабрика Решений",
+        "city": "Москва, Сухаревская",
+        "title": "Разработчик Python (Django, DRF)",
+        "salary": "150 000 – 250 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/97553452?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ООО СтройМонолитСервис",
+        "city": "Зеленоград",
+        "title": "Python Django/Flask Разработчик",
+        "salary": "Вилка зарплат не указана",
+        "link": "https://spb.hh.ru/vacancy/97223087?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ООО ВВХВ",
+        "city": "Санкт-Петербург",
+        "title": "Программист Python(Django)",
+        "salary": "до 120 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/96992871?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ООО БиАйЭй-Технолоджиз",
+        "city": "Санкт-Петербург, Фрунзенская",
+        "title": "Python-разработчик (Django)",
+        "salary": "Вилка зарплат не указана",
+        "link": "https://spb.hh.ru/vacancy/96206567?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "Валта",
+        "city": "Москва",
+        "title": "Team Lead backend (Python Django)",
+        "salary": "250 000 – 380 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/94821887?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "GRI",
+        "city": "Москва",
+        "title": "Senior Python Developer (Django, ecom)",
+        "salary": "Вилка зарплат не указана",
+        "link": "https://spb.hh.ru/vacancy/95634549?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "company_name": "ООО ФК ПУЛЬС",
+        "city": "Москва, Планерная",
+        "title": "ТехЛид / Tech Lead (Python, Django)",
+        "salary": "Вилка зарплат не указана",
+        "link": "https://spb.hh.ru/vacancy/95844149?query=python&hhtmFrom=vacancy_search_list"
+    }
+]
